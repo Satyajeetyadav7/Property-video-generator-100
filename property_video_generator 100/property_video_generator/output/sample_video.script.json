@@ -1,0 +1,66 @@
+[
+  {
+    "kind": "title",
+    "image": "sample/images/01_exterior.jpg",
+    "headline": "Skyline Residency",
+    "sub": "2-BHK Apartment  |  Whitefield, Bengaluru",
+    "narration": "Introducing Skyline Residency, a 2-BHK Apartment in Whitefield, Bengaluru.",
+    "duration": 4.0
+  },
+  {
+    "kind": "feature",
+    "image": "sample/images/04_bedroom.jpg",
+    "headline": "Two spacious bedrooms",
+    "sub": "Master bedroom",
+    "narration": "Highlights include two spacious bedrooms.",
+    "duration": 4.0
+  },
+  {
+    "kind": "feature",
+    "image": "sample/images/03_kitchen.jpg",
+    "headline": "Modular kitchen",
+    "sub": "",
+    "narration": "You will also find modular kitchen.",
+    "duration": 4.0
+  },
+  {
+    "kind": "feature",
+    "image": "sample/images/05_balcony.jpg",
+    "headline": "East-facing balcony",
+    "sub": "",
+    "narration": "Plus, east-facing balcony.",
+    "duration": 4.0
+  },
+  {
+    "kind": "feature",
+    "image": "sample/images/06_clubhouse_pool.jpg",
+    "headline": "Clubhouse and swimming pool",
+    "sub": "",
+    "narration": "Do not miss clubhouse and swimming pool.",
+    "duration": 4.0
+  },
+  {
+    "kind": "gallery",
+    "image": "sample/images/02_living_room.jpg",
+    "headline": "Living room",
+    "sub": "",
+    "narration": "Living room.",
+    "duration": 3.2
+  },
+  {
+    "kind": "price",
+    "image": "sample/images/01_exterior.jpg",
+    "headline": "₹78,50,000",
+    "sub": "2-BHK Apartment  |  Whitefield, Bengaluru",
+    "narration": "Priced at ₹78,50,000.",
+    "duration": 3.5
+  },
+  {
+    "kind": "cta",
+    "image": "sample/images/06_clubhouse_pool.jpg",
+    "headline": "Book a site visit today",
+    "sub": "+91 98765 43210 | hello@example-realty.com",
+    "narration": "Book a site visit today. Contact +91 98765 43210 | hello@example-realty.com.",
+    "duration": 4.5
+  }
+]

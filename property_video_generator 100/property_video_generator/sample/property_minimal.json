@@ -1,0 +1,10 @@
+{
+  "name": "Maple Court Plot",
+  "property_type": "Residential plot",
+  "cta": "Enquire now",
+  "images": [
+    "images/01_exterior.jpg",
+    "images/does_not_exist.jpg",
+    "images/05_balcony.jpg"
+  ]
+}

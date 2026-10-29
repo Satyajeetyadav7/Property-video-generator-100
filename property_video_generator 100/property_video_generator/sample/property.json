@@ -1,0 +1,22 @@
+{
+  "name": "Skyline Residency",
+  "location": "Whitefield, Bengaluru",
+  "price": "₹78,50,000",
+  "property_type": "2-BHK Apartment",
+  "features": [
+    "Two spacious bedrooms",
+    "Modular kitchen",
+    "East-facing balcony",
+    "Clubhouse and swimming pool"
+  ],
+  "contact": "+91 98765 43210 | hello@example-realty.com",
+  "cta": "Book a site visit today",
+  "images": [
+    {"path": "images/01_exterior.jpg"},
+    {"path": "images/02_living_room.jpg", "caption": "Living room"},
+    {"path": "images/04_bedroom.jpg", "caption": "Master bedroom"},
+    {"path": "images/03_kitchen.jpg"},
+    {"path": "images/05_balcony.jpg"},
+    {"path": "images/06_clubhouse_pool.jpg"}
+  ]
+}
